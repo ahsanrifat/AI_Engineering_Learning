@@ -1,0 +1,20 @@
+# Generated data (regenerate by re-running the notebook)
+chroma_db/
+extracted_images/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Environment/secrets
+.env
+.env.*
+
+# OS
+.DS_Store
