@@ -1,0 +1,8 @@
+# PDF parsing (hi_res strategy also needs the tesseract + poppler system binaries — see README)
+unstructured[pdf]==0.25.2
+
+# RAG pipeline
+llama-index==0.14.23
+llama-index-vector-stores-chroma==0.5.5
+llama-index-embeddings-huggingface==0.7.0
+chromadb==1.5.9
